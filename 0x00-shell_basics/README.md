@@ -6,3 +6,4 @@ This script prints the absolute path name of the current working directory
 6.This script also display the content of a directory in long fomart, including hidden files and user and group IDs displayed numerically
 7. This script creates a directory in another directory
 8. This script moves the file betty from the /tmp/ to /tmp/my_first_directory
+9. This deletes betty in /tmp/my_first_directory
