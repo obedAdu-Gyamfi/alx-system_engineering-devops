@@ -7,3 +7,4 @@ This script prints the absolute path name of the current working directory
 7. This script creates a directory in another directory
 8. This script moves the file betty from the /tmp/ to /tmp/my_first_directory
 9. This deletes betty in /tmp/my_first_directory
+10. This script deletes the directory my_first_directory that is in the /tmp directory
