@@ -15,3 +15,4 @@ This script prints the absolute path name of the current working directory
 15. This script copies html files from the current working directory to the parent of the working directory, but only copies the files that did not exit in the parent of the working directory or were newer than the version in the parent of the working directory
 .This moves all uppercase letter to /tmp/u
 . Deletes all files in the current directory that end with the character /home/scorpion
+. Creates mutiple directories
