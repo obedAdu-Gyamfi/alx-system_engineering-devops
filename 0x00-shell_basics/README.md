@@ -11,3 +11,4 @@ This script prints the absolute path name of the current working directory
 11. This script changes the working directory to the previous one
 12. This Script lists all files
 13. This script also prints the type of file named iamafile
+14. This script creates a symbolic to /bin/ls, named __ls__
