@@ -10,3 +10,4 @@ This script prints the absolute path name of the current working directory
 10. This script deletes the directory my_first_directory that is in the /tmp directory
 11. This script changes the working directory to the previous one
 12. This Script lists all files
+13. This script also prints the type of file named iamafile
