@@ -17,3 +17,4 @@ This script prints the absolute path name of the current working directory
 . Deletes all files in the current directory that end with the character /home/scorpion
 . Creates mutiple directories
 It list all the files and directories seperated by commas
+This is magic file
