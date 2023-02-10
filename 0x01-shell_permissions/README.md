@@ -2,3 +2,5 @@
 . 2. This 1-whoami script displays the current user
 . 3. This 2-group script prints all the groups the current user is a part of
 . 4 . This 3-new_owner script changes the owner of a file hello to user betty
+. 5. This 4-empty script creates an empty file hello
+. 6. This 5-excute script adds execute permissions to the owner of the file hello
