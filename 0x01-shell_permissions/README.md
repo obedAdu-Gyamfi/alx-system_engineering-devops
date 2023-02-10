@@ -12,3 +12,4 @@
 . 12. This adds an execute permissions to the current directory and all subdirectories
 .13. Creates new directory with permission 751
 . 14. changes group owner to school for the file hello
+. This changes the owner of the file hello to betty only if it is owned by the user guillaume
