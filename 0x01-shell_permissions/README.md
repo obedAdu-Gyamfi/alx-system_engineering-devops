@@ -7,3 +7,4 @@
 . 7. This 6-multiple_permissions script adds execute permission to owner and the group owner and read permission to other users
 . 8. This 7-everybody script adds execution permission to the owner, the group owner and the other users to the file hello
 . 9.This script sets permissions as owner has not permission, no group has permission as well, but othe users have all permissions
+. 10. This script 9-John_Doe sets the file permissions to -rwxr-x-wx
