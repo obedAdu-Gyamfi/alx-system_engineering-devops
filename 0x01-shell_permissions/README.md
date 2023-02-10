@@ -10,3 +10,4 @@
 . 10. This script 9-John_Doe sets the file permissions to -rwxr-x-wx
 . 11.This creates a mirror mode of the olleh file to the hello file
 . 12. This adds an execute permissions to the current directory and all subdirectories
+.13. Creates new directory with permission 751
