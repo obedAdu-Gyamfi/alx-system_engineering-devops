@@ -11,3 +11,4 @@
 . 11.This creates a mirror mode of the olleh file to the hello file
 . 12. This adds an execute permissions to the current directory and all subdirectories
 .13. Creates new directory with permission 751
+. 14. changes group owner to school for the file hello
