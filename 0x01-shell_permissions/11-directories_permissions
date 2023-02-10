@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ./dir1/dir/
+chmod -R a+X
