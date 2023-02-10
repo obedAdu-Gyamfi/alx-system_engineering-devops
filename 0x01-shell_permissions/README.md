@@ -5,3 +5,4 @@
 . 5. This 4-empty script creates an empty file hello
 . 6. This 5-excute script adds execute permissions to the owner of the file hello
 . 7. This 6-multiple_permissions script adds execute permission to owner and the group owner and read permission to other users
+. 8. This 7-everybody script adds execution permission to the owner, the group owner and the other users to the file hello
