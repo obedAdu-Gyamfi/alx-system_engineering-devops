@@ -5,3 +5,4 @@
 5. Script Displays the last 10 lines of /etc/passwd
 6. Scripts Displays the first 10 lines of /etc/passwd
 7. Script displays the third line of the file iacta
+8.Script creates a file with a specific name with special characters containing the text Best School ending by a new line
