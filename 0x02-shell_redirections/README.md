@@ -6,3 +6,11 @@ script counts the number of directories and sub-directories in the current direc
 script that displays the 10 newest files in the current directory.Requirements,One file per line Sorted from the newest to the oldest
 script takes a list of words as input and prints only words that appear exactly once.
 Displays lines containing the root from /etc/passwd
+Displays the number of lines that contains the pattern bin in the file /etc/passwd
+Displays lines containing the pattern root and 3 lines after them in the file /etc/passwd
+Displays all the lines in the file /etc/passwd that do not contain the pattern bin
+Displays all lines of the file /etc/ssh/sshd_config starting with a letter
+Replaces all character A and c from input to Z and e respectively
+Creates a script that removes all the letters c and C from input
+Script reverse it's input
+Script displays all users and their home directories, sorted by users.
