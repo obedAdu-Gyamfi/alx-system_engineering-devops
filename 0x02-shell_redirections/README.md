@@ -14,3 +14,7 @@ Replaces all character A and c from input to Z and e respectively
 Creates a script that removes all the letters c and C from input
 Script reverse it's input
 Script displays all users and their home directories, sorted by users.
+Script finds all the empty files and directories in the current directory and all sub-directories
+Script lists all files with .gif extension in the current directory and all the sub-directories
+This script decodes acrostics that use the first letter of each line
+This script parses the web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
