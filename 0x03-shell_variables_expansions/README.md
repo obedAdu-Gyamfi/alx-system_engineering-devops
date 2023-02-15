@@ -7,3 +7,4 @@
 7. Task 6, This script creates a new local variable.
 8. Task 7, This script also creates a new global variable.
 9. Task 8, This script prints the results of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by new line
+10. Task 10, This script prints the result of POWER and DIVIDE ,followed by a new line.
