@@ -12,3 +12,7 @@
 12. Task 11, This script converts a number from base 2 to base 10.
 13. Task 12, Script prints all possible combinations of two letters, except oo.
 14. Task 13, script prints a number with two decimal places.
+15. Task 14, script converts a number from base 10 to base 16.
+16. Task 15, script encodes and decodes test using the rot13 encryption
+17. Task 16, script prints every other line from the input, starting with the first line.
+18. Task 17, script adds the two numbers stored in the environment variable WATER and STIR and prints the result.
