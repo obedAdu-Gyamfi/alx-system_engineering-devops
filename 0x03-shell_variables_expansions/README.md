@@ -9,3 +9,6 @@
 9. Task 8, This script prints the results of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by new line
 10. Task 10, This script prints the result of POWER and DIVIDE ,followed by a new line.
 11. Task 10, This script displays the result of BREATH to the power LOVE.
+12. Task 11, This script converts a number from base 2 to base 10.
+13. Task 12, Script prints all possible combinations of two letters, except oo.
+14. Task 13, script prints a number with two decimal places.
