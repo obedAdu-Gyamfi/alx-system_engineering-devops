@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# This script displays the content of /etc/passwd.
+
+while IFS= read -r var;
+do
+	user=$(echo "$var" | cut -d":" -f1)
+	uid=$(echo "$var" | cut -d":" -f3)
+	home=$(echo "$var" | cut -d":" -f6)
+	echo "$user:$uid:$home"
+done < /etc/passwd
