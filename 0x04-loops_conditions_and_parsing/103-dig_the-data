@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# A bash script that parses an Apache log file
+# Groups the visitors by IP and HTTPS status code,
+# and displays this data
+# (Diging the data)
+file=apache-access.log
+awk 'BEGINE {FS=" "; OFS=" "} {occur[$1]++} END{for (i in occur) print occur[i], $1, $9}' < "$file" | sort -k1rn
