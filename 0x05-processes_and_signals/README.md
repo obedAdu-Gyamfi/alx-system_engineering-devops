@@ -3,4 +3,6 @@ linux processes and signals
 
 # It consists of Bash Scripts that when executed performs a spercific task.
 1. 0-what-is-my-pid: This script displays it's own PID
-2. 1-list_your_processes: Displays a list of current running processes 
+2. 1-list_your_processes: Displays a list of current running processes
+3. 2-show_your_bash_pid: Displays a list of all running processes containing the keyword bash
+4. 3-show_your_bash_pid_made_ease: Displays the PID, along with the name of the process whose name contains the keyword bash 
