@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 # Displays a list of all running process
+ps -aux
 ps -e -f --forest
+ps -eo uid,args
